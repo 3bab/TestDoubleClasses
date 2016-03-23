@@ -13,3 +13,4 @@ The other class is ignored.
 * you should see that the other class was initialised
 
 - - - -
+![picture alt](http://luisjunqueiro.com/wp-content/uploads/2014/10/Untitled_Panorama1-Edit-3.jpg "Portugal")
