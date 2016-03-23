@@ -1,0 +1,12 @@
+# TestDoubleClasses
+
+While investigating JRE clas loading, I noticed that if there are two classes with the same name, the Java class loader loads the one which is first in the class path.
+The other class is ignored. 
+
+If you want to test this:
+-- download the project
+-- import into your Eclipse
+-- run the app and check output
+-- change the order between A and B classes in the .classpath file
+-- refresh and run the app again
+-- you should see that the other class was initialised
