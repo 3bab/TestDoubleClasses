@@ -5,12 +5,12 @@ The other class is ignored.
 
 ## Testing ##
 
-* download the project
-* import into your Eclipse
-* run the app and check output
-* change the order between A and B classes in the .classpath file
-* refresh and run the app again
-* you should see that the other class was initialised
+* Download the project
+* Import the project into your Eclipse
+* Run the app and check the output. You should see either "This is class A" or "This is class B".
+* Change the order between A and B classes in the .classpath file
+* Refresh and run the app again
+* You should see that the output is different. That means that the class loader initialised another class
 
 - - - -
 ![picture alt](http://luisjunqueiro.com/wp-content/uploads/2014/10/Untitled_Panorama1-Edit-3.jpg "Portugal")
