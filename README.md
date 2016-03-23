@@ -1,6 +1,6 @@
 # TestDoubleClasses
 
-While investigating JRE clas loading, I noticed that if there are two classes with the same name, the Java class loader loads the one which is first in the class path.
+While investigating JRE 1.8x class loading, I noticed that; if there are two classes with the same name, the Java class loader loads the one which is first in the class path.
 The other class is ignored. 
 
 ## Testing ##
